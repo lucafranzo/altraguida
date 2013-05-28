@@ -1,4 +1,4 @@
-altraguida
+L'Altraguida
 ==========
 
-L'altra guida
+L'altra guida è un bruttissimo documento.
